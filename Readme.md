@@ -23,3 +23,7 @@ But type can also be any constructor function (built-in ones like Date or custom
 
 
 emit('method-name',data) method can use for talk to parent component on listen
+
+
+register emits event as props with 
+emits object
