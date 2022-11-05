@@ -19,3 +19,7 @@ Function
 Symbol
 
 But type can also be any constructor function (built-in ones like Date or custom ones).
+
+
+
+emit('method-name',data) method can use for talk to parent component on listen
